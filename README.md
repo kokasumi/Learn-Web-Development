@@ -1,5 +1,3 @@
-# MDN-Learn-Web-Development 
+# Learn-Web-Development 
 
-**原文内容**：[Learn web development](https://developer.mozilla.org/en-US/docs/Learn) 
-
-**笔记说明**：该项目下的内容均为[MDN](https://developer.mozilla.org)网站中学习Web开发的知识点，整理出来方便自己学习记忆，有兴趣的童鞋可去原文网址查看相关内容。
+**笔记说明**：该项目下的内容为[MDN](https://developer.mozilla.org)以及[w3cSchools](https://www.w3schools.com)中学习Web开发相关的知识点，整理出来方便自己学习记忆。
